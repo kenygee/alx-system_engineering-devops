@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Best School" >  \\\*\\\\'"Best School"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\\*\:\)
+git add .
+git commit -m "Shell Redirection"
+git push
